@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DSKServer", "3DSKServer\3DSKServer.csproj", "{50CA8754-9E49-468C-8A60-6445111287A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DSKCore", "3DSKCore\3DSKCore.csproj", "{28CB978F-D09F-4C27-AC13-5AC3933BFACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DSKTestApp", "3DSKTestApp\3DSKTestApp.csproj", "{E2F145F1-D71E-4136-B912-0E3199CC48F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CA8754-9E49-468C-8A60-6445111287A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CA8754-9E49-468C-8A60-6445111287A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CA8754-9E49-468C-8A60-6445111287A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CA8754-9E49-468C-8A60-6445111287A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CB978F-D09F-4C27-AC13-5AC3933BFACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CB978F-D09F-4C27-AC13-5AC3933BFACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CB978F-D09F-4C27-AC13-5AC3933BFACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CB978F-D09F-4C27-AC13-5AC3933BFACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F145F1-D71E-4136-B912-0E3199CC48F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F145F1-D71E-4136-B912-0E3199CC48F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F145F1-D71E-4136-B912-0E3199CC48F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F145F1-D71E-4136-B912-0E3199CC48F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
